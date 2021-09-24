@@ -1,0 +1,22 @@
+/Users/danielhaile/Downloads/mp2-interpreter/test/ExpGens.hs:
+  hash: 8c86897bf6dcc636b51929d0f68fbc19339801276a01d42b1b147ff13cc040f5
+/Users/danielhaile/Downloads/mp2-interpreter/README.md:
+  hash: c87a6447e5647b3e41caf6da1f46cca9b83bde2702a7edc031ebfed6842da169
+/Users/danielhaile/Downloads/mp2-interpreter/package.yaml:
+  hash: 25417f051119d8b0de10e6aa4444735d57e55e0925f6742cda6f536d2f211b72
+/Users/danielhaile/.stack/programs/x86_64-osx/ghc-8.10.3/lib/ghc-8.10.3/include/ghcversion.h:
+  hash: c48ad36f2f58fb4c6880f8883b41f1dc05207e41a06d05dde520edc9773ce4d1
+/Users/danielhaile/Downloads/mp2-interpreter/test/PropertyTests.hs:
+  hash: 36dd4a76e932ed71975a65d7fa1182ebfc5adc53b142d85ceae8eac9301db947
+/Users/danielhaile/Downloads/mp2-interpreter/test/friendly/FriendlySpec.hs:
+  hash: 29759ea8b601e22c9b2a6f1f41157a161dc9ef9f476ebd497ffe13caa7d16c34
+/Users/danielhaile/Downloads/mp2-interpreter/test/StmtGens.hs:
+  hash: 1a7b84c3f822ebd7f660526038841a0e47086bd55ab9c34872a8652d26c3bfaf
+? /Users/danielhaile/Downloads/mp2-interpreter/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/friendly-test/autogen/Paths_interpreter.hs
+: hash: f907f8938f2b1a76efdc3e6aad2054ff122659bef2c248674a30dcd15e96cbc6
+/Users/danielhaile/Downloads/mp2-interpreter/test/UnitTests.hs:
+  hash: 25ec14904ed3cad1b31d85b52759a11e2aea5f83ec899e23a76dbf05f1f6fec4
+? /Users/danielhaile/Downloads/mp2-interpreter/.stack-work/dist/x86_64-osx/Cabal-3.2.1.0/build/friendly-test/autogen/cabal_macros.h
+: hash: 5c16317499390eeda5af01422027855c87924d2efadabd46380140b0c537e217
+/Users/danielhaile/Downloads/mp2-interpreter/interpreter.cabal:
+  hash: 90c657d01fc18a86a1437f5fa3473d31e3602f957a577a5387fa4cfe69ef9b26
